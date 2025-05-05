@@ -51,9 +51,9 @@ span{
     padding: 1em;
     font-size: 18px;
     width: 100%;
-    border-bottom: 4px solid var(--tigre);
-    border-left: 4px solid var(--tigre);
-    border-right: 4px solid var(--tigre);
+    border-bottom: 4px solid var(--Verdemoss);
+    border-left: 4px solid var(--Verdemoss);
+    border-right: 4px solid var(--Verdemoss);
     border-top: none;
 }
 
@@ -74,7 +74,7 @@ span{
     border-bottom: var(--tigre)
 }
 .abas-textos{
-    background-color: var(--tigre);
+    background-color: var(--Verdemoss);
     padding: 40px;
     border-radius: 0 0 40px 40px;
 }
